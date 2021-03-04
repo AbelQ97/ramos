@@ -60,7 +60,7 @@
 		["Hormigón Armado","CIV-331",5,0,"ES",["CIV-234","CIV-251"],"I"],
 		["Hidráulica Aplicada","CIV-346",3,0,"AG",["CIV-243"],"I"],
 		["Mecánica de Suelos II","CIV-366",4,0,"SU",["CIV-261"],"I"],
-		["Diseño Geométrico y Capacidad Vial","CIV-370",3,0,"VI",["CIV-368","CIV-261"],"I"],
+		["Diseño Geométrico y Capacidad Vial","CIV-370",3,0,"VI",["CIV-368"],"I"],
 		["Gest. de la Calidad Total en la Cadena de Suministros","CIV-381",3,0,"GE",["CIV-380"],"I"]
 	],
 	"s10": [
